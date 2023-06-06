@@ -21,5 +21,3 @@ Practice 2 of the Programming Languages subject at EAFIT University, consists of
 ## Compilator
 This practice was done **<a href="https://replit.com">Replit.com</a>** together with its built-in compiler **GHCi Version 8.10.6**
 
-## Support video
-**https://youtu.be/pqXmXVf-8_M**
